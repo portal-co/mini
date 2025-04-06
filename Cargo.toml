@@ -1,0 +1,9 @@
+[workspace]
+members=[]
+resolver="3"
+
+[workspace.dependencies]
+chacha20 = "0.9.1"
+embedded-chacha = "0.1.0"
+embedded-io = "0.6.1"
+embedded-io-async = "0.6.1"
