@@ -1,13 +1,14 @@
 # mini
 
 ## Description
-Project mini
+A small crate integrating `embedded-chacha` and `embedded-io`, likely for minimal encrypted I/O.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide minimal encrypted I/O
+- [ ] Support `embedded-io` traits
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
